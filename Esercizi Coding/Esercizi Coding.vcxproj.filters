@@ -18,5 +18,14 @@
     <ClCompile Include="Esercizi Coding.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
+    <ClCompile Include="NumeroPrimo.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="DivisoreMaggiore.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Calcolatrice.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
